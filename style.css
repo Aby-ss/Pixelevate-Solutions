@@ -1,1 +1,10 @@
 
+body {
+    background-color: #ffffff;
+    height: 100%;
+    margin: 0;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    text-align: center; /* Centers all text */
+    color: #000000; /* Applies the Alice White color */
+}
